@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample To Do List web application using Spring Boot and MySQL
 
 A simple Todo list application using Spring Boot with the following options:
@@ -25,3 +26,6 @@ As you add and update tasks in the app you can verify the changes in the databas
 `select * from todo_item`.
 
 Change to Readme
+=======
+# todo-app-springboot-mysql
+>>>>>>> db2859cbfea875911d295e03bcc2090b49ca5011
